@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import InputWeather from './Components/InputWeather';
-import WeatherCard from './Components/WeatherCard';
+// import WeatherCard from './Components/WeatherCard';
 
 function App() {
   return (
@@ -13,11 +13,9 @@ function App() {
 
       <main>
         <InputWeather />
-        <WeatherCard />
       </main>
 
       <footer>
-        <h1>By snehdeep </h1>
       </footer>
 
     </div>
