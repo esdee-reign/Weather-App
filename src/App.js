@@ -1,7 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
 import InputWeather from './Components/InputWeather';
-// import WeatherCard from './Components/WeatherCard';
 
 function App() {
   return (
